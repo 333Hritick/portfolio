@@ -135,7 +135,7 @@ export function Contact() {
                   placeholder=""
                 />
               </div>
-//force redoply
+
               <div>
                 <label htmlFor="message" className="block text-sm font-medium text-gray-700 mb-2">
                   Message
