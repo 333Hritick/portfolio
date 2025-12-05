@@ -135,7 +135,7 @@ export function Contact() {
                   placeholder=""
                 />
               </div>
-
+//temp
               <div>
                 <label htmlFor="message" className="block text-sm font-medium text-gray-700 mb-2">
                   Message
